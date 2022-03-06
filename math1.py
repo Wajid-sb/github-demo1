@@ -25,5 +25,7 @@ def substract(x,y):
 def multiply(x,y):
     return x*y
 
+# funtion array is implemented
 def arrays(a):
-    pass
+    a=[1,2,3,4,5]
+    return a
