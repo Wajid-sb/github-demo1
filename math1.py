@@ -22,6 +22,7 @@ def divide(x,y):
 def substract(x,y):
     return x-y
 
+#  multiplication function
 def multiply(x,y):
     return x*y
 
