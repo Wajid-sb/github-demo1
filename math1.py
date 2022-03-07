@@ -12,6 +12,7 @@ def add(x,y):
 def add(x,y):
     return x**y
 
+# divide implimentation
 def divide(x,y):
     if y==0:
         return DivisionByZero
