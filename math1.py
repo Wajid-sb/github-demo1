@@ -1,6 +1,6 @@
 from decimal import DivisionByZero
 
-
+# square header
 def square(x,y):
     return x**y                   # on master branch
 
@@ -12,6 +12,7 @@ def add(x,y):
 def add(x,y):
     return x**y
 
+# divide header
 def divide(x,y):
     if y==0:
         return DivisionByZero
